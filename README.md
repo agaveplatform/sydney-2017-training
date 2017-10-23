@@ -14,17 +14,17 @@
   <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">1:30 - 1:50</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Rion</td>    
-    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">Overview and [Introduction](Introduction.ipynb) </td>
+    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">Overview and <a href="Introduction.ipynb">Introduction</a> </td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">1:50 - 2:10</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Kathy</td>
-    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">[Jupyter, Sandboxes, and Logging In](Jupyter%2C%20Sandboxes%2C%20and%20Logging%20In.ipynb) </td>
+    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;"><a href="Jupyter%2C%20Sandboxes%2C%20and%20Logging%20In.ipynb">Jupyter, Sandboxes, and Logging In</a> </td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">2:10 - 3:00</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Steven</td>
-    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">[Setup](Config.ipynb), [Agave Quickstart](AgaveSetup.ipynb), [Build and Run](Funwave.ipynb)</td>
+    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;"><a href="Config.ipynb">Setup</a>, <a href="AgaveSetup.ipynb">Agave Quickstart</a>, <a href="Funwave.ipynb">Build and Run</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">3:00 - 3:30</td>
@@ -35,22 +35,22 @@
   <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">3:30 - 4:00</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Rion</td>    
-    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">[Docker and Singularity](Docker%20and%20Singularity.ipynb), [Visualization](Visualization.ipynb)</td>
+    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;"><a href="Docker%20and%20Singularity.ipynb">Docker and Singularity</a>, <a href="Visualization.ipynb">Visualization</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">4:00 - 4:25</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Rion</td>    
-    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">[Batch Notebooks](Batch%20Notebooks.ipynb)</td>
+    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;"><a href="Batch%20Notebooks.ipynb">Batch Notebooks</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">4:25 - 4:40</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Kathy</td>    
-    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">[GUI Notebooks](GUI%20Notebooks.ipynb)</td>
+    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;"><a href="GUI%20Notebooks.ipynb">GUI Notebooks</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">4:45 - 5:00</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Rion</td>    
-    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;">[Infinity and Beyond](Infinity%20and%20Beyond.ipynb)</td>
+    <td class="tg-yw4l" style="text-align:left; min-width: 150px; font-size: 1.5em;"><a href="Infinity%20and%20Beyond.ipynb">Infinity and Beyond</a></td>
   </tr>
 </table>
 
