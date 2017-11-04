@@ -1,7 +1,7 @@
 version: '2'
 
 volumes:
-  nectar-2017-workshop-volume:
+  sydney-2017-training-volume:
 
 services:
   jupyter:
@@ -20,7 +20,8 @@ services:
       - AGAVE_CACHE_DIR=/home/jovyan/work/.agave
       - AGAVE_JSON_PARSER=jq
     volumes:
-      - nectar-2017-workshop-volume:/home/jovyan/work
+      - sydney-2017-training-volume:/home/jovyan/work
+      - .:/home/jovyan/notebooks
   sandbox:
     image: agaveplatform/sc17-sandbox:latest
     mem_limit: 2048m
@@ -34,6 +35,6 @@ services:
       - ENVIRONMENT=training
       - AGAVE_CACHE_DIR=/home/jovyan/work/.agave
     volumes:
-      - nectar-2017-workshop-volume:/home/jovyan/work
+      - sydney-2017-training-volume:/home/jovyan/work
       - /var/run/docker.sock:/var/run/docker.sock
       - $HOME/.docker:/home/jovyan/.docker:ro
