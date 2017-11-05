@@ -1,5 +1,5 @@
 
-# Agave Developer Training Workshop
+# Hands on delivering Science-as-a-Service with the Agave Platform
 
 **Date:** Oct 31 - Nov 1, 2017  
 **Time:** 9:00am - 5:00pm  
